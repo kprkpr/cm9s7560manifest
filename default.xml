@@ -280,8 +280,8 @@
     <project path="kernel/samsung/kylessopen" name="kprkpr/android_kernel_samsung_s7560" remote="github" revision="master" />
     <project path="vendor/samsung/kylessopen" name="jonypx09/android_vendor_samsung_kylessopen" remote="github" revision="master" />
     <!-- FM Radio -->
-    <project path="hardware/qcom/fm" name="legaCyMod/android_hardware_qcom_fm" remote="github" revision="cm-11.0" />
-    <project path="packages/apps/FM2" name="legaCyMod/android_packages_apps_FM2" remote="github" revision="cm-11.0" />
+    <project path="hardware/qcom/fm" name="legaCyMod/android_hardware_qcom_fm" remote="github" revision="cm-10.1" />
+    <project path="packages/apps/FM2" name="legaCyMod/android_packages_apps_FM2" remote="github" revision="cm-10.1" />
 
     <!-- Local projects 
     <project path="hardware/atheros/wifi/libs" name="legaCyMod/android_hardware_atheros_wlan" remote="github" revision="cm-10.2" />
